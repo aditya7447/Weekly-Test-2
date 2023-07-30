@@ -15,5 +15,6 @@ In anchor tag href link is provied of github hosted page link which will redirec
 #
 While clicking on the image of first frame that is panel.html page its redirect to another page and this redirect page is display in second iframe
 >
-![13](https://github.com/aditya7447/Weekly-Test-2/assets/85671986/9210656a-748b-4cfd-b52f-ce55c3b8507a)
+![Alt text](image.png)
+
 
