@@ -11,7 +11,7 @@ Inside the panel.hmtl file I used 'hr','br','heading' tags are used and 'img' ta
 >
 In anchor tag href link is provied of github hosted page link which will redirect to another frame that is created using 'iframe' tag with attribute name = frame2
 >
-![14](https://github.com/aditya7447/Weekly-Test-2/assets/85671986/761eb662-c00f-4be6-8554-ccca37e5d51d)
+![Alt text](image-1.png)
 #
 While clicking on the image of first frame that is panel.html page its redirect to another page and this redirect page is display in second iframe
 >
